@@ -1,0 +1,9 @@
+The aim of the game is the King to reach his throne.
+The king has help from different characters:
+The Mage sets out fires.
+The Warrior fights the orks.
+The Thief picks up one key at a time and opens a gate.
+
+To move a character use the arrow keys.
+To change a charcter press 'p' on keyboard.
+

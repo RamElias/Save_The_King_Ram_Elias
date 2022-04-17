@@ -1,0 +1,29 @@
+10 15
+200
+===============
+=             =
+=             =
+=             =
+=   KMWT @    =
+=             =
+=             =
+=             =
+=             =
+===============
+King – K, Mage – M, Warrior – W, Thief – T, Dwarf  -  ^  , Dragon - D
+Throne - @, Wall - =, gate - # , fire - *, ork- !, key- F, teleport – X, gift-$
+
+YOU CAN COPY PAST THE LEVELS BELOW
+
+10 15
+20
+===============
+=X =*!        =
+=  =*         =
+=   *****     =
+=   MTW X     =
+=X  ====      =
+=   =****     =
+=K= =*!       =
+=@   * $$^^^^ =
+===============

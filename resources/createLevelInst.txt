@@ -1,0 +1,9 @@
+Write down on the text file and 
+position the objects as you like:)
+King -> K                         wall -> =
+Mage -> M                      gate -> Shift+3
+Warrior -> W              fire -> Shift+8
+Thief -> T                       ork -> !
+Dwarf -> Shift+6        key -> F
+Dragon -> D                  teleport -> X
+thron -> @                    gift -> $
